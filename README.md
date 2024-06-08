@@ -1,5 +1,3 @@
-# My Awesome Report
-
 ![Bild](public/img/coding.png)
 
 ## Beskrivning
@@ -14,3 +12,10 @@ För att köra den här webbplatsen lokalt, följ dessa steg:
    ```bash
    php -S localhost:8000 -t public
 
+
+## Scrutinizer
+[![Bild](public/img/quality3.png)](https://scrutinizer-ci.com/g/SaraHabanakeh/mvc2/)
+
+[![Bild](public/img/coverage4.png)](https://scrutinizer-ci.com/g/SaraHabanakeh/mvc2/)
+
+[![Bild](public/img/build2.png)](https://scrutinizer-ci.com/g/SaraHabanakeh/mvc2/)
